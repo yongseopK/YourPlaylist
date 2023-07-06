@@ -19,3 +19,7 @@
     르세라핌        UNFORGIVEN
     IDLE           QUEENCARD
 
+ # 애니메이션 노래들 목록
+ ---------------------
+    zard            dan dan kokoro
+    유정석          질풍가도
