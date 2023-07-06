@@ -1,8 +1,21 @@
     가수명		    노래명
 ==============================
+
+ # 옛날 노래들 목록
+ -----------------
     엠블렉          Y
     원더걸스        Nobody
     빅뱅            거짓말
     빅뱅            붉은노을
     SES             Dreams come true
     자자            버스안에서
+ # 최신 노래들 목록
+ -----------------
+    뉴진스          Cookie
+    뉴진스          Hype boy
+    블랙핑크        Shutdown
+    피프티피프티    큐피드
+    아이브          I AM
+    르세라핌        UNFORGIVEN
+    IDLE           QUEENCARD
+
